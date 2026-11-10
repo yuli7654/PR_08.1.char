@@ -1,0 +1,5 @@
+﻿  PR_08.1.char.cpp
+C:\Users\Hp\source\repos\PR_08.1.char\PR_08.1.char.cpp(33,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Hp\source\repos\PR_08.1.char\PR_08.1.char.cpp(63,26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Hp\source\repos\PR_08.1.char\PR_08.1.char.cpp(72,26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  PR_08.1.char.vcxproj -> C:\Users\Hp\source\repos\PR_08.1.char\x64\Debug\PR_08.1.char.exe
